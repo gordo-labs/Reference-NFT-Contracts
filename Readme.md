@@ -1,6 +1,6 @@
 # Interesting NFT Contracts repository.
 
-### References of curious of emblematic NFT contracts to list as a fast reference for personal works.
+### References of curious and emblematic NFT contracts to list as a fast reference for personal works.
 
 
 - Async Art Contracts
@@ -30,4 +30,6 @@
 All are stacked for developing and fast reference purposes.
 
 
-Accept 
+I accept any kind suggestions feel free to PR with changes.
+
+Best
